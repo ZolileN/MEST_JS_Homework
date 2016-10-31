@@ -1,13 +1,13 @@
-/*
- * 1. explain the special meaning of the following special characters
+//1. explain the special meaning of the following special characters
  \0 the null character
- \n new line
- \r carriage return
- \v vertical tab
- \t
+ \\backslash
+ \n new line = add a new line 
+ \r carriage return = go back to the start of the current line
+ \v vertical tab = Arrange your code in vertical form
+ \t = You can use it to tab
  \backspace
  \f form feed
- */
+ 
  
  //2.Please combine those two array together as one array by using concate:
 var arr1 = ['Sunday', 'Monday', 'Tuesday', 'Wednesday']
