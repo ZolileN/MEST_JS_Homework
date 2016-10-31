@@ -55,7 +55,7 @@ document.write(titleCase("I'm a little tea pot"));
  *
  */
   var reGex = /^(([^<>()\[\]\\.,;:\s@"]+(\.[^<>()\[\]\\.,;:\s@"]+)*)|(".+"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
-  reGex.test('dynamic@yahoo.com')
+  reGex.test('zolile@mlkcomputer.co.za')
 /*
  * 4. what is localStorage and sessionStorge under window object? What is the
  *    difference
